@@ -61,14 +61,9 @@ streamlit run app.py
 - Importance des features
 - Validation croisée
 
-## Performance
-
-Le modèle actuel atteint un score R² de 0.8-0.9 sur l'ensemble de test.
-
 ## Auteur
 
-[Votre nom]
+Eliott Bellais & Corentin Deprez
 
-## Licence
 
-MIT 
+
